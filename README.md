@@ -1,25 +1,11 @@
-# MakeMeFit
-
-This app's objective is to assist users to manage their health and fitness by analysing their daily activities. The app has the following features:
-<br><br>
-•Register/Login  using Firebase Authentication.
-<br>
-•Update Profile/Forgot password -  User can make use of email id associated with the account to reset password.
-<br>
-•	Automated step tracking and estimated calories burnt in real time
-<br>
-•BMI calculation 
-<br>
-•Meditation while listening to Pink Noise Delta waves music with changing nature images to help fall asleep.
-<br>
-•Water and Sleep tracking with customized goals.
-<br>
-•History - Users can check previous step, water and sleep intake history.
-<br>
-•Statistics - Users can check steps,sleep and water intake statistics such as average steps taken in previous week/month and most steps taken in a day and when to keep user motivated.
-<br>
+# Shakti
+Shakti is an App which provide more power to you to keep yourself safe and secure.
 <br>
 
-<img src="https://i.imgur.com/gMAX9TT.png" width="300"> <img src="https://i.imgur.com/7hu1JIy.jpg" width="300"> <img src="https://imgur.com/Kwtlaer.jpg" width="300">
-<img src="https://imgur.com/7WE810E.jpg" width="300"> <img src="https://i.imgur.com/TtUJ6i2.jpg" width="300"> <img src="https://i.imgur.com/iE7NMEe.jpg" width="300">
-<img src="https://imgur.com/E9NmJJC.jpg" width="300"><img src="https://i.imgur.com/gN4h1SI.jpg" width="300">
+## Screenshots
+
+
+<img src="https://user-images.githubusercontent.com/89250504/148217851-9fd639d6-9ff9-47ed-9018-e7da8ec1204f.jpg" width="250" > <img src="https://user-images.githubusercontent.com/89250504/148218110-c26d9092-207a-4f74-b4a5-ec1feaeb47ce.jpg" width="250" > <img src="https://user-images.githubusercontent.com/89250504/148219341-305e6af8-f5ea-4f72-a6a8-cb86da601da1.jpg" width="250" > <img src="https://user-images.githubusercontent.com/89250504/148220275-b4e3644c-b7a1-485b-9949-382ed3703010.jpg" width="250" > <img src="https://user-images.githubusercontent.com/89250504/148221448-301eb88e-6342-446b-a690-4f65d8f146e8.jpg" width="250" >
+
+<!-- <img src="" width="250" >
+<img src="" width="250" > -->
